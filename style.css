@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+   }
+   
+   p{
+       color: red;
+     }
+   
+   body{
+       margin: 0px;
+     }
+   
+   div{
+       background-color:grey;
+   }
+   
+    #lower{
+      color:black
+   }
+   
+   @media only screen and (max-width: 600px) {
+       footer {
+         font-size: 30px;
+       }
+     }
+     
+   nav{
+       display: flex;
+       color: color;
+       background-color: tomato;
+       height: 60px;
+       padding-top: 40px;
+     }
+   
